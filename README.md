@@ -106,7 +106,7 @@ Setup
 
 Clone the Repository
 
-git clone https://github.com/Rukash-tech/BlogApp.git
+git clone [https://github.com/Rukash-tech/BlogApp.git](https://github.com/RukashDG/Blog-App-API.git)
 
 Configure MySQL Database:
 
@@ -146,5 +146,5 @@ Author: Rukash DG
 
 Email: rukashdg24@gmail.com
 
-GitHub: https://github.com/Rukash-tech/BlogApp.git
+GitHub: [https://github.com/Rukash-tech/BlogApp.git](https://github.com/RukashDG/Blog-App-API.git)
 
